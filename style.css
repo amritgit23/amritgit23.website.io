@@ -1,0 +1,25 @@
+.find-more-button{
+    background-color:red;
+    font-size:medium;
+    font-weight: bold;
+    color:white;
+    align-items: center;
+}
+
+.container1{
+    margin-top:300px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.find-more-cl{
+    justify-content: center;
+    justify-items:center;
+    align-items: center;
+}
+
+.cont1{
+    justify-content:center;
+    margin-top:100px;
+}
